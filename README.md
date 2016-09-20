@@ -7,8 +7,9 @@
  
  
  安装时会遇到的问题：
- 一、maven仓库中有些包没有，所以需要手动加入到maven仓库中，具体包都已经放入D:目录下
- 方法如下：
+ 
+ 一、maven仓库中有些包没有，所以需要手动加入到maven仓库中，具体包都已经放入D:目录下方法如下：
+ 
  需要将/Users/wide/Documents/workspace/lib/改为你存放的lib包存放的目录，然后在命令窗口中输入如下代码
  mvn install:install-file -Dfile=/Users/wide/Documents/workspace/lib/ckeditor-java-core-3.5.3.jar 
  -DgroupId=ckeditor-DartifactId=ckeditor-java-core -Dversion=3.5.3 -Dpackaging=jar
@@ -26,11 +27,13 @@
  -DartifactId=jfinal-shiro -Dversion=2.0.0 -Dpackaging=jar
  
  二、导入Eclipse中后执行三步：
+ 
  1. 右击项目 Maven->Update Project
  2. Project->Clean Project
  3. 右击项目 Run As->Maven building
  
  三、文件位置
+ 
  数据库配置文件JfinalYBaseV1.0/src/main/resources/sys.properties
  ckeditor文件位置JfinalYBaseV1.0/src/main/webapp/ckeditor/ 在此处的config.js中可以配置ckeditor相关属性
  ckfinder文件位置JfinalYBaseV1.0/src/main/webapp/ckfinder/ 在此处的config.js中可以配置ckfinder相关属性
@@ -40,6 +43,7 @@
  页面放置 JfinalYBaseV1.0/src/main/webapp/pages/
  
  四、项目运用到的技术
+ 
  1.jfinal
  2.bootstrop 样式框架
  3.shiro 安全验证
