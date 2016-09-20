@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>基础框架</title>
+<title>JfinalYBaseV1.0</title>
 </head>
 <c:import url="/pages/include/pageHead.jsp" />
 <body>
@@ -16,7 +16,7 @@
                      <span class="icon-bar"></span>
                      <span class="icon-bar"></span>
                     </a>
-                    <a class="brand" href="#">基础框架</a>
+                    <a class="brand" href="#">JfinalYBaseV1.0</a>
                     <div class="nav-collapse collapse">
                         <ul class="nav pull-right">
                             <li class="dropdown">

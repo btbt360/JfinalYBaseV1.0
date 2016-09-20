@@ -26,7 +26,7 @@ body{
 </script>
 </head>
 <body id="login" >
-<div class="logo"><img src="static/img/login_logo.png" /></div>
+<div class="logo"><div style="font-size: 40px;">JfinalYBaseV1.0</div></div>
 
 
 <div class="container">

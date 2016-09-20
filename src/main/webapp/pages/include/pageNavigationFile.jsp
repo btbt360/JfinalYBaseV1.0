@@ -65,7 +65,7 @@
         <script src="${basepath}/static/frame/theme/vendors/flot/jquery.flot.stack.js"></script>
         <script src="${basepath}/static/frame/theme/vendors/flot/jquery.flot.resize.js"></script>
         
-<title>基础框架</title>
+<title>JfinalYBaseV1.0</title>
 </head>
 <body>
 	<div class="navbar navbar-fixed-top">
@@ -75,7 +75,7 @@
                      <span class="icon-bar"></span>
                      <span class="icon-bar"></span>
                     </a>
-                    <a class="brand" href="#">基础框架</a>
+                    <a class="brand" href="#">JfinalYBaseV1.0</a>
                     <div class="nav-collapse collapse">
                         <ul class="nav pull-right">
                             <li class="dropdown">
