@@ -28,12 +28,12 @@
  
  二、导入Eclipse中后执行三步：
  
- 1. 右击项目 Maven->Update Project
- 2. Project->Clean Project
- 3. 右击项目 Run As->Maven building
+ 右击项目 Maven->Update Project。
+ Project->Clean Project。
+ 右击项目 Run As->Maven building。
  
  三、文件位置
- 
+
  数据库配置文件JfinalYBaseV1.0/src/main/resources/sys.properties
  ckeditor文件位置JfinalYBaseV1.0/src/main/webapp/ckeditor/ 在此处的config.js中可以配置ckeditor相关属性
  ckfinder文件位置JfinalYBaseV1.0/src/main/webapp/ckfinder/ 在此处的config.js中可以配置ckfinder相关属性
