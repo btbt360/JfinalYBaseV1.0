@@ -11,6 +11,7 @@
  一、maven仓库中有些包没有，所以需要手动加入到maven仓库中，具体包都已经放入D:目录下方法如下：
  
  需要将/Users/wide/Documents/workspace/lib/改为你存放的lib包存放的目录，然后在命令窗口中输入如下代码
+ 
  mvn install:install-file -Dfile=/Users/wide/Documents/workspace/lib/ckeditor-java-core-3.5.3.jar 
  -DgroupId=ckeditor-DartifactId=ckeditor-java-core -Dversion=3.5.3 -Dpackaging=jar
 
