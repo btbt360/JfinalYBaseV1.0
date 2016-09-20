@@ -33,6 +33,7 @@
  3. 右击项目 Run As->Maven building
  
  三、文件位置
+ 
  数据库配置文件JfinalYBaseV1.0/src/main/resources/sys.properties
  ckeditor文件位置JfinalYBaseV1.0/src/main/webapp/ckeditor/ 在此处的config.js中可以配置ckeditor相关属性
  ckfinder文件位置JfinalYBaseV1.0/src/main/webapp/ckfinder/ 在此处的config.js中可以配置ckfinder相关属性
@@ -40,6 +41,7 @@
  ckfinder上传的文件位置JfinalYBaseV1.0/src/main/webapp/userfiles/files/
  前台UI放置在JfinalYBaseV1.0/src/main/webapp/static/
  页面放置 JfinalYBaseV1.0/src/main/webapp/pages/
+
  四、项目运用到的技术
  
  1.jfinal
